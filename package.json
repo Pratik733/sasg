@@ -21,8 +21,16 @@
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "heroku-postbuild": "npm run build"
   },
+
+
+ "engines": {
+    "npm": "8.1.0",
+    "node": "16.13.0"
+ },
+
   "browserslist": {
     "production": [
       ">0.2%",
