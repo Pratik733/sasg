@@ -11,7 +11,7 @@ import CoverFlow from 'coverflow-react';
 import { Link } from 'react-scroll';
 
 //Set your count down date
-var countDownDate = new Date("Nov 21, 2021 23:17:00").getTime();
+var countDownDate = new Date("Nov 22, 2021 14:00:00").getTime();
 
 const truncate = (input, len) =>
   input.length > len ? `${input.substring(0, len)}...` : input;
