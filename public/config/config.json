@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x1AB3fBa353E0bE66E3d02140Acb61036e6DB97C3",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x1ab3fba353e0be66e3d02140acb61036e6db97c3",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+
+  },
+  "NFT_NAME": "Senior Ape Golf Club",
+  "SYMBOL": "SAGC",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 25000000000000000,
+  "DISPLAY_COST": 0.025,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/senior-ape-golf-club",
+  "SHOW_BACKGROUND": true
+}
